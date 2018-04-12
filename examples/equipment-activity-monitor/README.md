@@ -1,0 +1,3 @@
+# Equipment Activity Monitor Sample - AWS Greengrass
+
+The Equipment Activity Monitor sample...
